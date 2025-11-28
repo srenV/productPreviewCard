@@ -1,7 +1,7 @@
 # Frontend Mentor - Product Preview Card Component
 
 This project is my solution for the Product Preview Card Component challengeon Frontend Mentor.  
-(https://www.frontendmentor.io/challenges/product-preview-card-component-iPAy2OFlH) 
+ https://srenv.github.io/productPreviewCard/
 
 ## Overview
 
